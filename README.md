@@ -11,7 +11,7 @@ Business decision making.
 - 👯 I’m looking to collaborate on any Machine Learning Project
 - 🤔 I’m looking for help with Data Analytics and Data Science Positions to leverage my skills
 - 💬 Ask me about Power BI Dashboards, SQL, Python and General Data Analytics.
-- 📫 You can reach me on my LinkedIn : bit.ly/35fr2vo
+- 📫 You can reach me on my LinkedIn : https://www.linkedin.com/mwlite/in/oghenero-siloko-b1604793
 <!--
 **oghenerosiloko/Oghenerosiloko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
